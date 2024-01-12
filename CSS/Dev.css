@@ -1,0 +1,51 @@
+#Mail {
+  z-index: 4;
+  position: fixed;
+  bottom: 155px;
+  right: 15px;
+  width: 55px;
+  height: 55px;
+  border: 3px solid #73AD21;
+  display: none;
+}
+#Whatsapp {
+  z-index: 4;
+  position: fixed;
+  bottom: 87px;
+  right: 100px;
+  width: 55px;
+  height: 55px;
+  border: 3px solid #73AD21;
+display: none;
+}
+
+#Tel {
+  z-index: 4;
+  position: fixed;
+  bottom: 155px;
+  right: 100px;
+  width: 55px;
+  height: 55px;
+  border: 3px solid #73AD21;
+display: none;
+}
+#Dev {
+  z-index: 4;
+  position: fixed;
+  bottom: 80px;
+  right: 5px;
+  width: 70px;
+  height: 70px;
+  border: 3px solid #73AD21;
+
+}
+#Msg {
+  z-index: 4;
+  position: fixed;
+  bottom: 215px;
+  right: 5px;
+  width: 175px;
+  height: 100px;
+  border: 3px solid #73AD21;
+display: none;
+}

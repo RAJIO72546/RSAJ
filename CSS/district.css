@@ -1,0 +1,202 @@
+  .DIC:hover {
+  z-index:4;
+   transform: scale(1.25); 
+  transition: transforms 0.4s ;
+}
+
+#BOK {
+    position: relative;
+    bottom: 238px;
+    right: -243px;
+    width: 90px;
+    height: 61px;
+}
+
+
+#CHA {
+    position: relative;
+    bottom: 283px;
+    right: -26px;
+    width: 97px;
+    height: 92px;
+}
+
+#DEO {
+    position: relative;
+    bottom: 310px;
+    right: -133px;
+    width: 84px;
+    height: 64px;
+}
+
+#DHA {
+    position: relative;
+    bottom: 251px;
+    right: -8px;
+    width: 87px;
+    height: 51px;
+}
+
+#DUM {
+    position: relative;
+    bottom: 305px;
+    right: -8px;
+    width: 82px;
+    height: 72px;
+}
+
+#ES {
+    position: relative;
+    bottom: 224px;
+    right: -285px;
+    width: 104px;
+    height: 90px;
+}
+
+#GAR {
+    position: relative;
+    bottom: 374px;
+    right: 104px;
+    width: 78px;
+    height: 103px;
+}
+
+#GIR {
+    position: relative;
+    bottom: 405px;
+    right: -60px;
+    width: 107px;
+    height: 96px;
+}
+
+#GOD {
+    position: relative;
+    bottom: 460px;
+    right: -91px;
+    width: 57px;
+    height: 80px;
+}
+
+#GUM {
+    position: relative;
+    bottom: 283px;
+    right: 286px;
+    width: 115px;
+    height: 102px;
+}
+
+#HAZ {
+    position: relative;
+    bottom: 478px;
+    right: -178px;
+    width: 110px;
+    height: 92px;
+}
+
+#JAM {
+    position: relative;
+    bottom: 464px;
+    right: -229px;
+    width: 81px;
+    height: 49px;
+}
+
+#KHU {
+    z-index:5;
+    position: relative;
+    bottom: 354px;
+    right: 28px;
+    width: 79px;
+    height: 71px;
+}
+
+#KOD {
+    position: relative;
+    bottom: 525px;
+    right: 73px;
+    width: 78px;
+    height: 57px;
+}
+
+#LAT {
+    position: relative;
+    bottom: 432px;
+    right: 300px;
+    width: 116px;
+    height: 74px;
+}
+
+#LOH {
+    position: relative;
+    bottom: 500px;
+    right: -97px;
+    width: 84px;
+    height: 56px;
+}
+
+#PAK {
+    position: relative;
+    bottom: 613px;
+    right: -346px;
+    width: 53px;
+    height: 71px;
+}
+
+#PAL {
+z-index:5;
+    position: relative;
+    bottom: 581px;
+    right: 93px;
+    width: 86px;
+    height: 93px;
+}
+
+#RAM {
+	z-index:5;
+    position: relative;
+    bottom: 525px;
+    right: 43px;
+    width: 90px;
+    height: 59px;
+}
+
+#RAN {
+    position: relative;
+    bottom: 485px;
+    right: 159px;
+    width: 104px;
+    height: 84px;
+}
+
+#SAH {
+    position: relative;
+    bottom: 665px;
+    right: -1px;
+    width: 54px;
+    height: 68px;
+}
+
+#SAR {
+    position: relative;
+    bottom: 532px;
+    right: -231px;
+    width: 81px;
+    height: 72px;
+}
+
+#SIM {
+    position: relative;
+    bottom: 503px;
+    right: 12px;
+    width: 115px;
+    height: 53px;
+}
+
+#WS {
+    position: relative;
+    bottom: 488px;
+    right: 25px;
+    width: 111px;
+    height: 95px;
+}
+
